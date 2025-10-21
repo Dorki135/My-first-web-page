@@ -1,10 +1,7 @@
-# OS generated files
-
-.DS_Store
-
-# IDE and editor files
+# IDE/Editor files
 
 .vscode/
-_.sublime-project
-_.sublime-workspace
-\*.idea/
+
+# System files (macOS)
+
+.DS_Store
