@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node or build folders (אם בעתיד תוסיף)
+node_modules/
+dist/
