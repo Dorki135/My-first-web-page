@@ -1,9 +1,10 @@
-# macOS system files
+# OS generated files
+
 .DS_Store
 
-# VS Code settings
-.vscode/
+# IDE and editor files
 
-# Node or build folders (אם בעתיד תוסיף)
-node_modules/
-dist/
+.vscode/
+_.sublime-project
+_.sublime-workspace
+\*.idea/
