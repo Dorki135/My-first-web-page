@@ -1,7 +1,7 @@
-# IDE/Editor files
+# Visual Studio Code settings
 
 .vscode/
 
-# System files (macOS)
+# macOS system files
 
 .DS_Store
